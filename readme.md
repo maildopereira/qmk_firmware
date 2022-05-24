@@ -2,7 +2,7 @@
 
 * git clone maildopereira/qmk_firmware
 * cd qmk_firmware
-* make sub-modules
+* make git-submodule
 
 # Quantum Mechanical Keyboard Firmware
 
