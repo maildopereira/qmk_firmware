@@ -1,8 +1,8 @@
 # Cloning instructions (forked from piit79, with my custom layouts added)
 
-git clone maildopereira/qmk_firmware
-cd qmk_firmware
-make sub-modules
+* git clone maildopereira/qmk_firmware
+* cd qmk_firmware
+* make sub-modules
 
 # Quantum Mechanical Keyboard Firmware
 
