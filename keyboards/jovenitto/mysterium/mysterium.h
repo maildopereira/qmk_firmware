@@ -23,8 +23,8 @@
 /**************************************************
 ** Include headers specific to keyboard revision **
 **************************************************/
-#if defined(KEYBOARD_42keebs_mysterium_v15c)
+#if defined(KEYBOARD_jovenitto_mysterium_v15c)
 #    include "v15c.h"
-#elif defined(KEYBOARD_42keebs_mysterium_v15d)
+#elif defined(KEYBOARD_jovenitto_mysterium_v15d)
 #    include "v15d.h"
 #endif
