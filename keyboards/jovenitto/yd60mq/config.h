@@ -40,3 +40,10 @@
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 // RGBLED_NUM is defined in revisions
+
+// QK_GESC -> Always send Escape if Control is pressed
+#define GRAVE_ESC_CTRL_OVERRIDE
+
+// Space cadet Redefine keys
+#define LSPO_KEYS	KC_LCTL, KC_LSFT, KC_8
+#define RSPC_KEYS	KC_LCTL, KC_LSFT, KC_9
